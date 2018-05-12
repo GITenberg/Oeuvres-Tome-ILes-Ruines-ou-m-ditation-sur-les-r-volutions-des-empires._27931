@@ -17,6 +17,8 @@ creator:
     - http://en.wikipedia.org/wiki/Constantin-Fran%C3%A7ois_Chasseb%C5%93uf
     - http://fr.wikipedia.org/wiki/Volney
 description: Tome 1 des Œuvres de C.-F. Volney
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27931#Oeuvres-Tome-ILes-Ruines-ou-m-ditation-sur-les-r-volutions-des-empires.
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2009-01-29'
 gutenberg_type: Text
