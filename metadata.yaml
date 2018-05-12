@@ -1,0 +1,36 @@
+_repo: Oeuvres-Tome-ILes-Ruines-ou-m-ditation-sur-les-r-volutions-des-empires._27931
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Volney, C.-F. (Constantin-François)
+    aliases:
+    - Volney, C.-F. (Constantin-Francois)
+    - Volney, Constantin-François Chasseboeuf, comte de
+    birthdate: 1757
+    deathdate: 1820
+    gutenberg_agent_id: '622'
+    url: http://www.gutenberg.org/2009/agents/622
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Constantin-Fran%C3%A7ois_Chasseb%C5%93uf
+    - http://fr.wikipedia.org/wiki/Volney
+description: Tome 1 des Œuvres de C.-F. Volney
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2009-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27931'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'History -- Philosophy'
+- !lcsh 'Religions'
+- !lcsh 'Revolutions'
+- !lcsh 'Ethics'
+- !lcc 'D'
+title: Les Ruines, ou méditation sur les révolutions des empires
+url: http://www.gutenberg.org/ebooks/27931
